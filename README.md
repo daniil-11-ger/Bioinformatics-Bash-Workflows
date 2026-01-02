@@ -1,4 +1,4 @@
-# Bioinformatics-Bash-Workflows
+# Bioinformatics-Bash-Workflows Bacterial genome assembly from raw SRA data (SRR35523993)
 #!/bin/bash
 # Pipeline for Bacterial Genome Assembly
 
